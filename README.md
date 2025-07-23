@@ -54,3 +54,12 @@ streamlit run app.py
 Abre el navegador en la dirección que mostrará Streamlit (por defecto http://localhost:8501).
 
 Desarrollado como parte del proyecto Examen_TT de Triple Ten.
+
+
+##Enlace al despliegue
+
+La aplicación está disponible en (Render):
+
+https://examen-tt-bueno.onrender.com*
+
+
